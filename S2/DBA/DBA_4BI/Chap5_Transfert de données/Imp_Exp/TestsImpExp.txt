@@ -1,0 +1,64 @@
+--------Privilege import/export----
+grant exp_full_database, imp_full_database to hr;
+
+--------Vérification du répertoire par défaut------
+
+select directory_name, directory_path from all_directories;
+
+--------Création du répertoire------
+
+1. créer physiquement le répertoire D:\impexp
+
+2. create or replace directory dpdir as 'D:\impexp';
+
+--------Attribution du privilège de lecture/écriture à hr----
+
+grant read, write on directory dpdir to hr;
+
+------Imp/exp tables dans un meme schéma------
+Sous l'invite de cmd
+
+expdp hr/hr tables=Employees, departments Directory=dpdir dumpfile= emp_dep.dmp logfile=emp_dep.log
+
+---------
+Conn hr/hr;
+drop table employees cascade constraints;
+drop table departments cascade constraints;
+
+desc employees; // Verif
+
+------------Importation des tables supprimées------
+
+impdp hr/hr tables=Employees, departments directory=dpdir dumpfile=emp_dep.dump logfile=impempdep.log
+
+-----
+desc employees;
+
+---------------------
+------Imp/Exp Schéma------
+
+expdp hr/hr directory=dpdir dumpfile=exphr.dump logfile=exphr.log;
+
+-----Créer un utilisateur---
+create user tp2 identified by tp2;
+
+-----import du schéma hr dans tp2-------
+impdp hr/hr dumpfile=exphr.dump directory=dpdir logfile=imphr.log remap_schema=hr:tp2
+
+-----Verification
+conn tp2/tp2
+select * from tab; 
+
+------------
+----------Import schéma avec uniquement la structure des tables
+-------
+
+create user tp21 identified by tp2
+
+impdp hr/hr dumpfile=exphr.dump directory=dpdir logfile=imphr.log remap_schema=hr:tp21 content= metadata_only
+
+
+-----Vérification
+select * from tab;
+desc employees;
+²select * from employees;

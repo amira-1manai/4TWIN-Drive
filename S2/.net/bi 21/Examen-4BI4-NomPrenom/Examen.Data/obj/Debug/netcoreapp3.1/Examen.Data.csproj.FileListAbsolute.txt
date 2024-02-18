@@ -1,0 +1,93 @@
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.deps.json
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.runtimeconfig.json
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.runtimeconfig.dev.json
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.pdb
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Domain.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Domain.pdb
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.AssemblyInfo.cs
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.csproj.CopyComplete
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.pdb
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.genruntimeconfig.cache
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.deps.json
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.runtimeconfig.json
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.runtimeconfig.dev.json
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.pdb
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Domain.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Domain.pdb
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.csproj.AssemblyReference.cache
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.AssemblyInfoInputs.cache
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.AssemblyInfo.cs
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.csproj.CopyComplete
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.pdb
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.genruntimeconfig.cache
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.deps.json
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.runtimeconfig.json
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.runtimeconfig.dev.json
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.pdb
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Domain.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Domain.pdb
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.csproj.AssemblyReference.cache
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.AssemblyInfoInputs.cache
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.AssemblyInfo.cs
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.csproj.CopyComplete
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.pdb
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.genruntimeconfig.cache
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.deps.json
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.runtimeconfig.json
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.runtimeconfig.dev.json
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.pdb
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Domain.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Domain.pdb
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.AssemblyInfo.cs
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.pdb
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.genruntimeconfig.cache
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.deps.json
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.runtimeconfig.json
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.runtimeconfig.dev.json
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.pdb
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Domain.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Domain.pdb
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.AssemblyInfo.cs
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.pdb
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.genruntimeconfig.cache
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.pdb
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.deps.json
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.runtimeconfig.json
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.runtimeconfig.dev.json
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Data.pdb
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Domain.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Data\bin\Debug\netcoreapp3.1\Examen.Domain.pdb
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.AssemblyInfo.cs
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.csproj.CopyComplete
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Data\obj\Debug\netcoreapp3.1\Examen.Data.genruntimeconfig.cache

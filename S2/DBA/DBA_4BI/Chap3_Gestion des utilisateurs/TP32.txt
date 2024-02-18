@@ -1,0 +1,66 @@
+Exercice1 : 
+1) 
+desc dba_sys_privilege
+
+select privilege from dba_sys_privs where grantee=’DBA’
+INTERSECT 
+Select privilege from dba_sys_privs where grantee=’RESOURCE’;
+
+2) desc dba_tab_privs;
+
+Select owner, table_name, privilege from dba_tab_privs where grantee=’HR’;
+
+3) select privilege,  admin_option from dba_sys_privs where privilege=’GRANT ANY OBJECT PRIVILEGE’ and grantee=’DBA’;
+
+4)
+select privilege from dba_sys_privs where grantee='HR';
+
+Exercice 2:
+
+1)	Create ROLE ROLE_TP32;
+Grant  create session to ROLE_TP32;
+Grant  create table to ROLE_TP32;
+Grant create user to ROLE_TP32;
+Grant create role to ROLE_TP32;
+Grant create PROCEDURE to ROLE_TP32 with  admin option; (privilege systeme(modification de structure dans la base expel creation) with admin option, priv objet(insert, update) with grant option)
+
+2)	Create user tp32 identied by tp32 ;
+Grant role_tp32 to tp32;
+
+3)	Create table Etablissement ( num_etab number primary key, nom_etab varchar2);
+
+Create table Etudiant ( num_etud number, num_etab number, nom_etud varchar2(20), 
+Constraints pk Primary key (num_etud, num_etab) ,constraints fk1 foreign key  ( num_etab) references Etablissement(num_etab)); 
+
+
+4)
+
+//Creation du role role_manip_tab_tp32
+
+Create role role_manip_tab_tp32;
+grant create session to role_manip_tab_tp32;
+grant select, insert on TP32.Etablissement to role_manip_tab_tp32;
+grant create procedure to role_manip_tab_tp32;
+
+5)
+
+//creation du user tp32_1
+
+create user tp32_1 identified by pwdtp32_1$32_1;
+grant role_manip_tab_tp32 to tp32_1;
+
+
+6)
+
+//Enlever le droit de creer des procedure du role_tp32
+
+revoke create procedure from role_tp32;
+
+
+7)
+//ENLEVER au rôle ROLE_MANIP_TAB_ TP32 le droit d’insérer et de sélectionner à partir
+de la table Etablissement de l’utilisateur TP32.
+
+REVOKE select, insert on TP32.etablissement from role_manip_tab_tp32 ;
+
+ 

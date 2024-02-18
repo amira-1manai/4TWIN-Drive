@@ -1,0 +1,449 @@
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.exe
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.deps.json
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.runtimeconfig.json
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.runtimeconfig.dev.json
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.pdb
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Data.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Domain.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Service.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Service.Pattern.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Domain.pdb
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Service.pdb
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Service.Pattern.pdb
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Data.pdb
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.AssemblyInfo.cs
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.csproj.CopyComplete
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.dll
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.pdb
+C:\Users\asus\source\repos\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.genruntimeconfig.cache
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.exe
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.deps.json
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.runtimeconfig.json
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.runtimeconfig.dev.json
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.pdb
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Data.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Domain.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Service.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Service.Pattern.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Domain.pdb
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Service.pdb
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Service.Pattern.pdb
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Data.pdb
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.csproj.AssemblyReference.cache
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.AssemblyInfoInputs.cache
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.AssemblyInfo.cs
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.csproj.CoreCompileInputs.cache
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.csproj.CopyComplete
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.dll
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.pdb
+C:\Users\Ines Sfar\Downloads\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.genruntimeconfig.cache
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.exe
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.deps.json
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.runtimeconfig.json
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.runtimeconfig.dev.json
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.pdb
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Data.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Domain.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Service.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Service.Pattern.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Domain.pdb
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Service.pdb
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Service.Pattern.pdb
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Data.pdb
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.csproj.AssemblyReference.cache
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.AssemblyInfoInputs.cache
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.AssemblyInfo.cs
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.csproj.CoreCompileInputs.cache
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.csproj.CopyComplete
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.dll
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.pdb
+C:\Users\Ines Sfar\Desktop\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.genruntimeconfig.cache
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.exe
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.deps.json
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.runtimeconfig.json
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.runtimeconfig.dev.json
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.pdb
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Data.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Domain.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Service.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Service.Pattern.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Domain.pdb
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Service.pdb
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Service.Pattern.pdb
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Data.pdb
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.AssemblyInfo.cs
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.csproj.CopyComplete
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.dll
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.pdb
+C:\Users\user\Desktop\ines\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.genruntimeconfig.cache
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.exe
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.deps.json
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.runtimeconfig.json
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.runtimeconfig.dev.json
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.pdb
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Data.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Domain.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Service.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Service.Pattern.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Domain.pdb
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Service.pdb
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Service.Pattern.pdb
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Data.pdb
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.AssemblyInfo.cs
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.csproj.CopyComplete
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.dll
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.pdb
+C:\Users\user\Desktop\test2\Examen-4BI4-NomPrenom\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.genruntimeconfig.cache
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.pdb
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.exe
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.deps.json
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.runtimeconfig.json
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.runtimeconfig.dev.json
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Console.pdb
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Data.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Domain.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Service.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Service.Pattern.dll
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Domain.pdb
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Service.pdb
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Service.Pattern.pdb
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\bin\Debug\netcoreapp3.1\Examen.Data.pdb
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.AssemblyInfo.cs
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.csproj.CopyComplete
+C:\Users\dell\Desktop\Examen-4BI4-NomPrenom\Examen.Console\obj\Debug\netcoreapp3.1\Examen.Console.genruntimeconfig.cache

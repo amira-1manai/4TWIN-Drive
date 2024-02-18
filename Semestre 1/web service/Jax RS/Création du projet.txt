@@ -1,0 +1,5 @@
+1. Maven Project -> war
+2. Pom.xml -> dependency
+3. Contexte du projet -> Classe hérite Application
+4. Créer la classe Ressource -> @Path et @Get
+5. Déployer le projet sur Tomcat

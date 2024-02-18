@@ -1,0 +1,85 @@
+----Activation Audit
+
+Show parameter audit;
+alter system set audit_trail=db_extended scope=spfile;
+shutdown immediate
+startup open
+show parameter audit;
+
+
+>conn hr/hr
+create table emp_test(empno, deptno) as select employee_id, department_id from employees;
+
+>conn system/manager as sysdba
+create user test identified by test;
+grant create session, create table to test; 
+
+
+
+----Planifier la stratégie d'audit
+
+audit all by test by access;
+audit insert, update, delete on hr.emp_test by access;
+
+----
+verification
+select ins,upd,sel,del, object_name from dba_obj_audit_opts where owner='HR' and object_name='EMP_TEST';
+
+--------------
+
+audit select on hr.emp_test by session whenever not successful;
+----
+verification
+select ins,upd,sel,del, object_name from dba_obj_audit_opts where owner='HR' and object_name='EMP_TEST';
+
+
+
+
+>conn test/test
+create table audit_test(id number);
+
+-----------Verification
+
+>conn system/manager as sysdba
+SQL> COLUMN username FORMAT A8
+SQL> COLUMN obj_name FORMAT A10
+SQL> COLUMN action_name FORMAT A12
+SQL> COLUMN sql_text FORMAT A37
+ 
+select username, obj_name,action_name,sql_text from dba_audit_trail where username='TEST' order by timestamp;
+
+------Audit select
+
+audit select on test.audit_test by access;
+>conn test/test
+select * from audit_test;
+
+----Verif------
+
+>conn system/manager as sysdba
+SQL> COLUMN username FORMAT A8
+SQL> COLUMN obj_name FORMAT A10
+SQL> COLUMN action_name FORMAT A12
+SQL> COLUMN sql_text FORMAT A37 
+select username, obj_name,action_name,sql_text from dba_audit_trail where username='TEST' order by timestamp;
+
+
+---------
+>conn hr/hr
+
+insert into emp_test (empno, deptno) values (1212,10);
+update emp_test set deptno =20 where empno = 1212;
+delete from emp_test where empno=1212;
+commit;
+exit;
+
+>conn system/manager as sysdba
+SQL> COLUMN username FORMAT A8
+SQL> COLUMN obj_name FORMAT A10
+SQL> COLUMN action_name FORMAT A12
+SQL> COLUMN sql_text FORMAT A37 
+select username, obj_name,action_name,sql_text from dba_audit_trail where username='HR' order by timestamp;
+
+-----supprimer l'option d'audit 
+noaudit all by test;
+noaudit insert, update, delete on hr.emp_test;

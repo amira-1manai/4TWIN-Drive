@@ -1,0 +1,76 @@
+Q1:
+desc dict;
+select table_name from dict;
+
+Q2:
+
+desc v$session;
+
+Select  username, program, terminal, TYPE from v$session ;
+
+Q3:
+
+desc v$sga;
+Select sum(value) from v$sga;
+
+Q4:
+
+desc user_objects;
+select object_name, object_type, created, last_ddl_time from user_objects;
+
+Q5: 
+
+select table_name from all_tables;
+
+Q6:
+
+create or replace procedure tab_names as
+
+cursor cur is select table_name from all_tables;
+
+begin
+for rec in cur loop
+dbms_output.put_line(rec.table_name);
+end loop;
+end;
+/
+
+set serveroutput on;
+
+begin
+tab_names();
+end;
+/
+
+Q7:
+
+select count(*) from dba_tables;
+
+Q8:
+
+Sol1:
+
+Conn sys/ as sysdba
+select count(*) from dba_tables where owner='HR';
+
+Sol2:
+
+Conn hr/hr
+select count(*) from user_tables;
+
+Q9:
+
+create or replace procedure PS_GET_TABLES_OF_USER (arg_user varchar2) is
+       cursor C1 is select object_name,created from dba_objects where (object_type='TABLE') and (owner= arg_user) order by object_name;
+       begin
+	dbms_output.enable;
+	for l in C1
+	loop
+	DBMS_OUTPUT.PUT_LINE('nom de tabe: '|| rpad(l.object_name,25,' ') ||'date de creation:   '|| l.created);
+	end loop;	
+	end ;
+	/
+--executer la procedure:
+system>execute PS_GET_TABLES_OF_USER ('HR');
+
+

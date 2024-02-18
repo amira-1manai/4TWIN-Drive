@@ -1,0 +1,100 @@
+*******************************EXAMEN-5BI***********************
+
+*******************************Partie-1*************************
+1/
+• Fichiers de contrôle : contient l’emplacement des fichiers de
+données, de journalisation et de backup.
+• Fichiers de données : Contiennent des données utilisateurs de
+la base.
+• Fichiers de journalisation : Utilisés pour la récupération d’une
+instance de la base de données.
+• Fichiers de sauvegarde : Utilisés pour la récupération de la
+base de données lorsque le fichier d’origine est endommagé ou
+supprimé.
+
+2/
+• Un privilège est un droit avec lequel on peut permettre d'executer une tache particulière de définition, de manipulation
+ou d’administration ou bien d'accéder au objects des autres utilisateurs et de pouvoir les manipuler.
+• Un rôle est un ensemble de privilèges qui est attribué à l’utilisateur.
+
+Avantages des rôles: 
+• Gestion plus facile des privilèges
+• Gestion dynamique des privilèges
+• Disponibilité sélective des privilèges
+
+3/
+• Processus SMON (System Monitor): effectue la récupération
+après une panne lorsque l’instance est démarrée suite à une
+défaillance.
+• Fichiers de contrôle : contient l’emplacement des fichiers de
+données, de journalisation et de backup.
+
+4/
+• Zone de mémoire (large Pool) : zone de mémoire
+facultative qui fournit des espaces importants
+d’allocation de mémoire à des processus volumineux
+(sauvegarde, récupération..)
+
+5/
+*PFILE :
+• Fichier texte
+• Il peut être modifié manuellement à l’aide d’un éditeur du
+système d’exploitation
+• Les modifications sont effectives au démarrage suivant
+• Il ne peut être ouvert que lors du démarrage de l’instance.
+s’il est modifié en cours l’instance doit être interrompue et
+redémarré pour que les nouvelles valeurs des paramètres
+soit effectives.
+• Indispensable dans les postes clients
+
+*SPFILE:
+• Fichier binaire préféré
+• Accessible par le serveur de BD
+• Ne doit pas être modifié manuellement
+• Moyen dynamique de gérer les modifications des
+paramètres apportées par le serveur.
+
+*******************************Partie-2*************************
+
+1/
+CREATE TABLESPACE APPLICATION DATAFILE 'C:\oraclexe\oradata\XE\fd01app.dbf' size 10M, 
+'C:\oraclexe\oradata\XE\fd02app.dbf' size 10M autoextend on next 1M maxsize 20M;
+
+2/
+CREATE temporary TABLESPACE TABTEMP tempfile 'C:\oraclexe\oradata\XE\ftemp.dbf' size 15M;
+ALTER database default temporary TABLESPACE TABTEMP;
+
+3/
+CREATE PROFILE M_PROFILE Limit 
+Connect_time 45
+Idle_Time 5
+PASSWORD_LIFE_TIME 180
+SESSIONS_PER_USER 2
+PASSWORD_LOCK_TIME 1
+FAILED_LOGIN_ATTEMPTS 3;
+
+4/
+CREATE ROLE M_ROLE;
+Grant  CREATE SESSION to M_ROLE;
+Grant  CREATE TABLE, CREATE VIEW to M_ROLE;
+Grant select, insert on HR.EMPLOYEES to M_ROLE;
+GRANT dba TO M_ROLE;
+
+5/
+CREATE USER U_MANAGER IDENTIFIED BY U_MANAGER
+[DEFAULT TABLESPACE APPLICATION]
+[PROFILE M_PROFILE]
+[PASSWORD EXPIRE]
+[ACCOUNT LOCK];
+Grant M_ROLE to U_MANAGER;
+
+6/
+ALTER USER U_MANAGER ACCOUNT UNLOCK? 
+
+7/ 5aliha misselch 18 not bad hhahahaah je confirme 3:)
+
+
+
+
+
+

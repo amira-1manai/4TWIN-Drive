@@ -1,0 +1,23 @@
+ex1:
+1 c
+2 a
+3 a b 
+ex2
+1 c
+2 b
+3 b
+4 c
+5 c
+ex3
+1 a c 
+2 a 
+3 c
+4 c
+5 d
+ex4
+1 b
+2 b
+3 b
+4 d //
+5 b
+

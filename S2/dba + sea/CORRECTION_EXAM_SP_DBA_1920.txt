@@ -1,0 +1,77 @@
+﻿--1
+create tablespace TBL_APP_COM 
+Datafile 'C:\oraclexe\oradata\xe\fd01tbl_app.dbf' size 10M autoextend on next 2M,
+'C:\oraclexe\oradata\xe\fd02tbl_app.dbf' size 10M;
+
+
+--2
+create temporary tablespace TEMP_APP_COM TEMPFILE 'C:\oraclexe\oradata\XE\ftemp_app.dbf' size 20M;
+
+
+--3
+create profile A_C_PROFILE LIMIT
+connect_time 5600
+idle_time 60
+password_life_time 30
+sessions_per_user 2
+failed_login_attempts 3
+Passsword_lock_time 7;
+
+
+--4
+Create role A_C_ROLE;
+grant create session to a_c_role with admin option;
+grant select, insert on hr.employees to a_C_role;
+grant resource to a_c_role;
+
+
+--5
+create user A_C_manager identified by a_c_manager default tablespace TBL_APP_COM temporary tablespace TEMP_APP_COM
+profile a_c_profile;
+
+
+create user A_C_user identified by a_c_user default tablespace TBL_APP_COM temporary tablespace TEMP_APP_COM
+profile a_c_profile;
+
+
+grant a_c_role to a_c_manager, a_c_user;
+
+
+--6
+
+
+Load data infile
+c:/datafile.dat
+when 01:02='11' 
+...
+when 01:02:'22'
+...
+
+
+sqlldr hr/hr control=...
+
+
+--7
+create or replace directory user_oracle on ‘C:\oraclexe\app\oracle’;
+
+
+--8
+grant imp_full_database , exp_full_database to a_c_manager, a_c_user;
+
+
+grant read, write on directory user_oracle to a_c_manager, a_c_user;
+
+
+--9
+expdp a_c_manager/a_c_manager directory=...
+impdp ... directory= .. remap_schema=a_c_manager:A_c_user
+
+
+--10
+alter system set audit_trail=DB_extended
+scope=spfile;
+
+
+audit connect;
+audit create session;
+audit select, insert, update,delete on A_c_Manager by session ;

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dIxx8FAPJ+LfiRP5ltIcASktbOEDgNbeXmSxqyj6iYCElVJu6aBeG8cuFUhB1wB0P43mVrOfE5IfWOaBNTOqTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alaae\\OneDrive\\Bureau\\Examen-4DS1-Elamri-Alaa\\Examen.Domain\\Examen.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alaae\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.11\\microsoft.entityframeworkcore.abstractions.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+Création new projet web_maven : 
+
+1. 	Création d'un projet Maven
+2.	Update le pom.xml
+3. 	Création des entities (logement + RDV) + @XML
+4.	Création de la classe RsActivator + @ApplicationPath
+5.	Création de la classe Ressource + @Path + @Post + ...
+6.	Deployer le projet sur le serveur
+7.	Tester avec Postman
